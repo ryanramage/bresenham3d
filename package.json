@@ -1,0 +1,20 @@
+{
+    "name" : "bresenham3d",
+    "version" : "0.0.1",
+    "description" : "Calculate all integer points along a relativly smooth line segment in 3d space.",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/ryanramage/bresenham3d.git"
+    },
+    "homepage" : "https://github.com/ryanramage/bresenham3d",
+    "keywords" : [
+        "math",
+        "3d"
+    ],
+    "author" : {
+        "name" : "Ryan Ramage",
+        "email" : "ryan@eckoit.com",
+        "url" : "http://github.com/ryanramage"
+    },
+    "license" : "MIT"
+}
